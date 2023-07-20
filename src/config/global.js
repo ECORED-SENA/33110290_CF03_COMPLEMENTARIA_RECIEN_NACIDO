@@ -161,22 +161,21 @@ export default {
   },
   complementario: [
     {
-      tema: 'Habilidades de comunicación',
+      tema: '1. Habilidades de comunicación',
       referencia:
         'KidesHealth. (2022). <em>La comunicación y su recién nacido.</em> (2022)',
       tipo: 'Artículo web',
       link: 'https://kidshealth.org/es/parents/cnewborn.html',
     },
     {
-      tema: 'Cuidados del recién nacido',
+      tema: '2.2. Cuidados del recién nacido',
       referencia:
         'Instituto Nacional de Salud. (2018). Mortalidad Perinatal y Neonatal. <em>Boletín Epidemiológico Semanal.</em> Semana epidemiológica 32.',
       tipo: 'Boletín',
-      link:
-        'https://www.ins.gov.co/buscador-eventos/BoletinEpidemiologico/2018%20Bolet%C3%ADn%20epidemiol%C3%B3gico%20semana%2032.pdf',
+      descarga: '/downloads/2018_Boletin_epidemiologico_semana_32.pdf',
     },
     {
-      tema: 'Cuidados del recién nacido',
+      tema: '2.2. Cuidados del recién nacido',
       referencia:
         'Ministerio de Salud y Protección Social - Colciencias. (2013). <em>Guía de práctica clínica del recién nacido sano.</em>',
       tipo: 'Guía',
@@ -184,15 +183,14 @@ export default {
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/INEC/IETS/GPC_Prof_Sal_RNSano.pdf',
     },
     {
-      tema: 'Cuidados del recién nacido',
+      tema: '2.2. Cuidados del recién nacido',
       referencia:
         'Organización Mundial de la Salud. (2021). <em>Normas para mejorar la calidad de la atención a los recién nacidos enfermos o de pequeño tamaño en los establecimientos de salud.</em>',
       tipo: 'PDF',
-      link:
-        'https://apps.who.int/iris/bitstream/handle/10665/341557/9789240017245-spa.pdf?sequence=1&isAllowed=y',
+      descarga: '/downloads/9789240017245-spa.pdf',
     },
     {
-      tema: 'Cuidados del recién nacido',
+      tema: '2.2. Cuidados del recién nacido',
       referencia:
         'Organización Panamericana de la Salud. (s.f.). Campaña de los 28 días - <em>Salud del recién nacido.</em>',
       tipo: 'Artículo web',
@@ -200,39 +198,36 @@ export default {
         'https://www.paho.org/es/campanas/campana-28-dias-salud-recien-nacido',
     },
     {
-      tema: 'Cuidados del recién nacido',
+      tema: '2.2. Cuidados del recién nacido',
       referencia:
         'Soria, R. M. (s.f.). Educación a los padres del recién nacido en el alojamiento conjunto. <em>Revista de enfermería.</em> pp. 22-31.',
       tipo: 'PDF',
-      link:
-        'https://www.fundasamin.org.ar/web/wp-content/uploads/2012/05/Educacion-de-los-padres-del-recien-nacido-en-el-alojamiento-conjunto.pdf',
+      descarga:
+        '/downloads/Educacion-padres-recien-nacido-alojamiento-conjunto.pdf',
     },
     {
-      tema: 'Cuidados del recién nacido',
+      tema: '2.2. Cuidados del recién nacido',
       referencia:
         'Suárez Ojeda, E. N. (1982). El enfoque de riesgo en la atención perinatal y materno infantil. <em>Bol Of Sanit Panam</em>, 92(6). 482-493.',
       tipo: 'PDF',
-      link:
-        'https://iris.paho.org/bitstream/handle/10665.2/17118/v92n6p482.pdf?sequence=1',
+      descarga: '/downloads/v92n6p482.pdf',
     },
     {
-      tema: 'Seguimientos y atenciones en el marco de la RPMS',
+      tema: '2.4. Seguimientos y atenciones en el marco de la RPMS',
       referencia:
         'Secretaría Distrital de Salud de Bogotá. (2018). <em>Política de Atención Integral en Salud. Modelo Integral de Atención en Salud.</em>',
       tipo: 'PDF',
-      link:
-        'http://www.saludcapital.gov.co/DSP/Tecnovigilancia/Primer_Encuentro_Distrital_de_Tecnovigilancia/PAIS_MIAS_RIAS_060318.pdf',
+      descarga: '/downloads/PAIS_MIAS_RIAS_060318.pdf',
     },
     {
-      tema: 'Seguimientos y atenciones en el marco de la RPMS',
+      tema: '2.4. Seguimientos y atenciones en el marco de la RPMS',
       referencia:
         'Ministerio de Salud y Protección Social. (2014). <em>Preguntas y respuestas sobre la Ley Estatutaria.</em>',
       tipo: 'PDF',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/ley-estatutaria-abc-jun-2014.pdf',
+      descarga: '/downloads/ley-estatutaria-abc-jun-2014.pdf',
     },
     {
-      tema: 'Seguimientos y atenciones en el marco de la RPMS',
+      tema: '2.4. Seguimientos y atenciones en el marco de la RPMS',
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.). <em>Ruta para mejorar la salud materna.</em>',
       tipo: 'Artículo web',
@@ -240,28 +235,25 @@ export default {
         'https://www.minsalud.gov.co/salud/publica/ssr/Paginas/Ruta-para-mejorar-la-salud-materna.aspx',
     },
     {
-      tema: 'Seguimientos y atenciones en el marco de la RPMS',
+      tema: '2.4. Seguimientos y atenciones en el marco de la RPMS',
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.). <em>Rutas integrales de atención en salud - RIAS</em>',
       tipo: 'PDF',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/05-rias-presentacion.pdf',
+      descarga: '/downloads/05-rias-presentacion.pdf',
     },
     {
-      tema: 'Seguimientos y atenciones en el marco de la RPMS',
+      tema: '2.4. Seguimientos y atenciones en el marco de la RPMS',
       referencia:
         'Ministerio de Salud y Protección Social. (2017). <em>Lineamiento técnico y operativo de la ruta integral de atención en salud materno perinatal.</em>',
       tipo: 'PDF',
-      link:
-        'https://www.dssa.gov.co/images/documentos/Lineamiento_materno_perinatal.pdf',
+      descarga: '/downloads/Lineamiento_materno_perinatal.pdf',
     },
     {
-      tema: 'Seguimientos y atenciones en el marco de la RPMS',
+      tema: '2.4. Seguimientos y atenciones en el marco de la RPMS',
       referencia:
         'Resolución 3280 de 2018. [Ministerio de Salud y Protección Social]. Por medio de la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la Población Materno Perinatal y se establecen las directrices para su operación. Agosto 2 de 2018.',
       tipo: 'PDF',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-3280-de-2018.pdf',
+      descarga: '/downloads/resolucion-3280-de-2018.pdf',
     },
   ],
   glosario: [

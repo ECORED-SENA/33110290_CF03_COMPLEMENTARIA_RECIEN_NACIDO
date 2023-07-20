@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar_Soltar.svg", alt="Actividad didáctica de relación de términos")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Identificación de signos de alarma en el recién nacido.
+          h2 Identificación de signos de alarma en el recién nacido
         p.mb-4 Identificar los signos de alarma en el estado del recién nacido que permitan atención oportuna y orientación adecuada de acuerdo al plan de cuidados para el recién nacido y educación a padres y cuidadores.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center

@@ -8,12 +8,12 @@
       h1 Habilidades de comunicación
     .row.align-items-center.mb-3
       .col-lg-4.mb-4.mb-lg-0
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/tema1/img1.png', style="width: 400px" ,alt='').m-auto
       .col-lg-8
-        p Para el desarrollo adecuado del recién nacido se requiere generar habilidades basadas en la confianza, la seguridad y el respeto, que trabajadas articuladamente con el equipo de talento humano en salud, cuidadores, padre y madre dan como resultado, una comunicación asertiva que permite expresar pensamientos, creencias y cultura que configuran todo un mecanismo para los cuidados que se brindarán al momento del egreso de la institución de salud.
+        p(data-aos="fade-in") Para el desarrollo adecuado del recién nacido se requiere generar habilidades basadas en la confianza, la seguridad y el respeto, que trabajadas articuladamente con el equipo de talento humano en salud, cuidadores, padre y madre dan como resultado, una comunicación asertiva que permite expresar pensamientos, creencias y cultura que configuran todo un mecanismo para los cuidados que se brindarán al momento del egreso de la institución de salud.
         .row
-          .col-12.bg-c1
+          .col-12.bg-c1(data-aos="zoom-in")
             .p-3
               .row.align-items-center
                 .col.mb-4.mb-md-0
@@ -21,36 +21,40 @@
                 .col-md-auto
                   figure
                     img(src='@/assets/curso/tema1/img1.svg', style="width: 110px" ,alt='').m-auto
-    p.mb-5 La siguiente infografía presenta algunas habilidades de comunicación para escuchar y aprender, reforzar la confianza y dar apoyo a padres y familiares del recién nacido.
-    figure.d-none.d-lg-block
-      img(src='@/assets/curso/tema1/img2.svg', style="width: 1250px" ,alt='Habilidades para escuchar y aprender: Usar comunicación no verbal útil. Hacer preguntas abiertas. Demostrar interés. Dar respuestas y tener gestos de interés. Parafrasear lo que la madre dice. Tener empatía: demostrar que se comprende lo que la madre siente. Evitar palabras enjuiciadoras; Habilidades para reforzar la confianza y dar apoyo: Aceptar lo que la madre piensa y siente. Reconocer y elogiar lo que la madre y el bebé están haciendo bien. Dar ayuda práctica. Proporcionar información pertinente usando lenguaje apropiado. Hacer sugerencias, no dar órdenes.').m-auto
-    figure.d-block.d-lg-none
+    p(data-aos="fade-in").mb-5 La siguiente infografía presenta algunas habilidades de comunicación para escuchar y aprender, reforzar la confianza y dar apoyo a padres y familiares del recién nacido.
+
+    figure.d-none.d-lg-block(data-aos="zoom-in")
+      img(src='@/assets/curso/tema1/img2.svg', style="width: 1250px" ,alt='Algunas acciones para la buena comunicación son: hacer preguntas abiertas, mostrar interés, evitar juicios, brindar ayuda práctica y hacer sugerencias.').m-auto
+
+    figure.d-block.d-lg-none(data-aos="zoom-in")
       img(src='@/assets/curso/tema1/img2m.svg', style="width: 1250px" ,alt='Habilidades para escuchar y aprender: Usar comunicación no verbal útil. Hacer preguntas abiertas. Demostrar interés. Dar respuestas y tener gestos de interés. Parafrasear lo que la madre dice. Tener empatía: demostrar que se comprende lo que la madre siente. Evitar palabras enjuiciadoras; Habilidades para reforzar la confianza y dar apoyo: Aceptar lo que la madre piensa y siente. Reconocer y elogiar lo que la madre y el bebé están haciendo bien. Dar ayuda práctica. Proporcionar información pertinente usando lenguaje apropiado. Hacer sugerencias, no dar órdenes.').m-auto
+
     Separador
     #t_1_1
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.1 Elementos de la comunicación
     .row.mb-3
-      .col-auto
+      .col-auto(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/tema1/img3.svg', style="width: 80px" ,alt='').m-auto
-      .col
+      .col(data-aos="fade-in")
         p.mb-0 El recién nacido mostrará diferentes maneras de interacción que podrá aprender el padre, madre o cuidador para identificar sus necesidades. Estas características básicas para la comunicación se van desarrollando durante su crecimiento, haciéndose mucho más claras a medida que avanza su edad. Una de las formas de comunicación que tiene el recién nacido es el llanto, que para la madre y su instinto en muchas oportunidades relaciona con la necesidad del momento: hambre, cambios de temperatura, cansancio de acuerdo a la postura en la cual se encuentre por tiempos prolongados o higiene (baño, cambio de pañal); identificar este tipo de comunicación será fundamental tanto para la madre como para el padre o cuidador.
     .row.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
-        .row.mb-3
+        .row.mb-3(data-aos="zoom-in")
           .col-12.bg-c2
             .p-3
               p.mb-0 Además del llanto, los recién nacidos utilizan sonidos, expresiones faciales o movimientos corporales para comunicarse. Las voces o sonidos de alta frecuencia o más agudos, generan más interés al recién nacido proporcionando un estímulo para interactuar con el padre, madre o acompañante, que favorece la comunicación desde una edad temprana y el desarrollo de la capacidad de entender la necesidad de la niña o niño. Los recién nacidos pueden desde temprana edad distinguir la voz humana y otros sonidos lo cual les permite evolucionar y dota a los adultos de elementos para atender a la respuesta frente a cada uno de ellos.
-        p.mb-0 Aprender a conocer estas formas de expresión es una herramienta única para la atención que se requiere en el proceso de desarrollo y crecimiento sano del recién nacido, a partir del análisis de las principales habilidades del recién nacido que se detallan a continuación:
-      .col-lg-5
+        p(data-aos="fade-in").mb-0 Aprender a conocer estas formas de expresión es una herramienta única para la atención que se requiere en el proceso de desarrollo y crecimiento sano del recién nacido, a partir del análisis de las principales habilidades del recién nacido que se detallan a continuación:
+      .col-lg-5(data-aos="flip-right")
         figure
           img(src='@/assets/curso/tema1/img2.png', style="width: 400px" ,alt='').m-auto
+
     .row.align-items-center.mb-4
       .col-lg-4.d-none.d-lg-block
-        figure
+        figure(data-aos="flip-right")
           img(src='@/assets/curso/tema1/img3.png', style="width: 400px" ,alt='').m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Habilidades comunicativas o lingüísticas")
             .col-12
@@ -95,8 +99,10 @@
                 li.d-flex
                   i.fas.fa-chevron-right
                   | Permanece atento a sonidos que se traducen en expresiones faciales de gracia, sorpresa o miedo.
-    p.mb-5 Ahora bien, complementando lo anterior, los principales reflejos del recién nacido relacionados con su desarrollo y movimiento físico son los siguientes:
-    .row.bg-c3
+
+    p(data-aos="fade-in").mb-5 Ahora bien, complementando lo anterior, los principales reflejos del recién nacido relacionados con su desarrollo y movimiento físico son los siguientes:
+
+    .row.bg-c3(data-aos="zoom-in")
       .col-12
         .p-5
           .row.justify-content-center
@@ -130,70 +136,79 @@
                             p #[b Reflejo plantar (Reflejo de Babinski)]
                             p.mb-0 El recién nacido curva los dedos de los pies hacia dentro cuando le tocan la planta del pie por el borde externo, desde el talón hacia los dedos.
             .row
-              .col-lg-8.bg-c6.mb-4.mb-lg-0
+              .col-lg-8.bg-c6.mb-4.mb-lg-0(data-aos="zoom-in")
                 .p-4
                   p.mb-0 Si bien cada recién nacido se desarrolla a un propio ritmo, en caso de hallazgos que no estén acorde a sus días de vida deben ser informados para valoración de un médico o médico especialista en pediatría o neonatología quien dará las indicaciones necesarias en procura de un desarrollo y crecimiento adecuados.
-              .col-lg-4
+              .col-lg-4(data-aos="flip-right")
                 figure
                   img(src='@/assets/curso/tema1/img5.svg', style="width: 350px" ,alt='').m-auto
     Separador
     #t_1_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.2  Tipos de comunicación
     .row.bg-c7.mb-5
       .col-12
         .px-5
-          .row.align-items-center.mb-5
+          .row.align-items-center.mb-5(data-aos="fade-in")
             .col-auto
               figure
                 img(src='@/assets/curso/tema1/img8.svg', style="width: 70px" ,alt='').m-auto
             .col
               p.mb-0 Las características que pueden encontrarse en el desarrollo de los recién nacidos y la interacción que tienen entre padre, madre o cuidadores, están asociadas a los tipos de comunicación establecidos durante el desarrollo en referencia a la personalidad de cada niña o niño, su carácter o temperamento que influye en la atención y la forma en que se van a comunicar, pudiendo clasificarse en cuanto a habilidades comunicativas en:
+
           .row.justify-content-center.mb-5
-            .col-8.col-md-6.col-lg-3.bg-c8.m-2
+            .col-8.col-md-6.col-lg-3.bg-c8.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img9.svg', style="width: 180px" ,alt='').m-auto
                 p.mb-0 #[b.txt-c1 Fácil]: perceptivos.
-            .col-8.col-md-6.col-lg-3.bg-c8.m-2
+
+            .col-8.col-md-6.col-lg-3.bg-c8.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img10.svg', style="width: 180px" ,alt='').m-auto
                 p.mb-0 #[b.txt-c1 Difícil]: distraídos e irritables.
-            .col-8.col-md-6.col-lg-3.bg-c8.m-2
+
+            .col-8.col-md-6.col-lg-3.bg-c8.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img11.svg', style="width: 180px" ,alt='').m-auto
                 p.mb-0 #[b.txt-c1 Reacción lenta]: toman tiempo para reaccionar frente a un estímulo.
-          p.mb-5 Los recién nacidos, dentro de sus derechos fundamentales, deben ser cuidados en un entorno estable, constituido por su familia, además de contar con el equipo de talento humano en salud. Estas interacciones emocionalmente son propicias, adecuadas y receptivas favoreciendo la educación necesaria para el desarrollo de la niña o niño.
+
+          p(data-aos="fade-in").mb-5 Los recién nacidos, dentro de sus derechos fundamentales, deben ser cuidados en un entorno estable, constituido por su familia, además de contar con el equipo de talento humano en salud. Estas interacciones emocionalmente son propicias, adecuadas y receptivas favoreciendo la educación necesaria para el desarrollo de la niña o niño.
+
           .row.align-items-center.mb-4
             .col-lg-7.bg-c9.mb-4.mb-lg-0
               .p-3
-                .row.align-items-center
+                .row.align-items-center(data-aos="zoom-in")
                   .col-auto
                     figure
                       img(src='@/assets/curso/tema1/img12.svg', style="width: 90px" ,alt='').m-auto
                   .col
                     p.mb-0 Se deben hacer partícipes activos a la familia y cuidadores en la atención que requerirá el recién nacido, incluyendo situaciones encontradas desde el control prenatal y las del riesgo en su nacimiento. Esta cercanía con los recién nacidos permite en los padres o cuidadores el apoyo necesario y desarrollo de habilidades de comunicación que son clave para brindar la atención requerida por la niña o niño durante su adaptación a la vida extrauterina.
             .col-lg-5
-              figure
+              figure(data-aos="flip-right")
                 img(src='@/assets/curso/tema1/img4.png', style="width: 550px" ,alt='').m-auto
+
           .row.align-items-center.mb-5
             .col-lg-4.mb-4.mb-lg-0
-              figure
+              figure(data-aos="flip-right")
                 img(src='@/assets/curso/tema1/img5.png', style="width: 550px" ,alt='').m-auto
-            .col-lg-8
+            .col-lg-8(data-aos="zoom-in")
               p Es importante entender que no solo los padres, familia o cuidadores son la red de apoyo primario independiente del vínculo de consanguinidad, que puede ser configurado de diferentes maneras no solamente como “familia nuclear”. Esto fortalece y permite un soporte para el proceso tanto de la gestación como después del mismo, teniendo en cuenta los vínculos culturales y religiosos, en los cuales se realizan intervenciones individuales o colectivas.
-              p.mb-0 El acceso a intervenciones dirigidas a la familia, según lo establecido en la Ruta estipulada en la Resolución 3280 de 2018 del Ministerio de Salud y Protección Social, debe tener presente los elementos que se relacionan en la figura.
+              p.mb-0 El acceso a intervenciones dirigidas a la familia, según lo establecido en la Ruta estipulada en la Resolución 3280 de 2018 del Ministerio de Salud y Protección Social, debe tener presente los elementos que se relacionan en la figura 1.
+
           .row.justify-content-center
-            .col-lg-10
+            .col-lg-10(data-aos="zoom-in")
               .titulo-sexto.color-acento-contenido.mb-4
                 p.mb-0 #[b Figura 1]. Línea de acceso a intervenciones
               figure
                 img(src='@/assets/curso/tema1/img13.svg', style="width: 950px" ,alt='Las líneas de intervención son por: priorización de la autoridad sanitaria, valoración de la dinámica familiar o por solicitud de la familia.').m-auto
-    p #[span.txt-c2 Teniendo en cuenta la necesidad de padres o cuidadores de contar con herramientas de valoración familiar en la atención del cuidado prenatal se hace necesario reconocer capacidades, necesidades y factores de riesgo de las familias, que permitan identificar de manera clara e integral la situación y dinámica familiar que permita dar prioridad a las atenciones correspondientes,] según la Ruta Integral de Atención (RIA) del Ministerio de Salud y Protección Social (s.f.).
+                
+    p(data-aos="fade-in") #[span.txt-c2 Teniendo en cuenta la necesidad de padres o cuidadores de contar con herramientas de valoración familiar en la atención del cuidado prenatal se hace necesario reconocer capacidades, necesidades y factores de riesgo de las familias, que permitan identificar de manera clara e integral la situación y dinámica familiar que permita dar prioridad a las atenciones correspondientes,] según la Ruta Integral de Atención (RIA) del Ministerio de Salud y Protección Social (s.f.).
     p.mb-5 A continuación, se pueden revisar algunos aspectos de consideración de la RIA relacionados con herramientas de valoración familiar:
-    .row.bg-c10
+    
+    .row.bg-c10(data-aos="fade-in")
       .col-12
         .px-5
           TabsC.color-acento-botones
@@ -221,42 +236,47 @@
                   p.mb-0 Importante ofrecer información clara que ofrezca equilibrio a las familias en función de la salud materno perinatal, que pueda derivar en atención especializada u otras rutas de atención de acuerdo a los hallazgos encontrados y los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento.
           Separador
           #t_1_3
-          .titulo-segundo.color-acento-contenido
+          .titulo-segundo.color-acento-contenido(data-aos="flip-left")
             h2 1.3 Asertividad
           .row.align-items-center.mb-5
-            .col-lg-8.mb-4.mb-lg-0
+            .col-lg-8.mb-4.mb-lg-0(data-aos="fade-in")
               p Las acciones encontradas en el desarrollo y la etapa del crecimiento del recién nacido, durante sus primeros 28 días de vida, permiten incrementar el conocimiento, habilidades y la autoconfianza entre madres, padres y cuidadores, así como concientizar al equipo de talento humano sobre las buenas prácticas de comunicación para mejorar las actividades de cuidado fomentando la toma de decisiones asertivas para un trabajo integral que dará respuesta a las necesidades de la niña o niño, reduciendo así la mortalidad neonatal.
               p.mb-0 Para ello, se recomienda atender, entre otras, las siguientes recomendaciones de comunicación asertiva:
-            .col-lg-4
+            .col-lg-4(data-aos="flip-right")
               figure
                 img(src='@/assets/curso/tema1/img15.svg', style="width: 450px" ,alt='').m-auto
+
           .row.justify-content-center
-            .col-md-8.col-lg.bg-c11.m-2
+            .col-md-8.col-lg.bg-c11.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img17.svg', style="width: 100px" ,alt='').m-auto
                 p.text-center.mb-4 #[b Utilizar un lenguaje sencillo]
                 p.text-center.mb-0 Transmita tranquilidad a la madre, padre o cuidadores, generando vínculos de autoconfianza en las actividades posnatales al momento del egreso. (Las palabras técnicas en ocasiones suelen generar confusiones o desorientar)
-            .col-md-8.col-lg.bg-c11.m-2
+
+            .col-md-8.col-lg.bg-c11.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img18.svg', style="width: 100px" ,alt='').m-auto
                 p.text-center.mb-4 #[b Ser coherente y respetuoso]
                 p.text-center.mb-0 Tenga en cuenta aspectos culturales, económicos y sociales involucrados en el proceso de orientación de acuerdo a la población que se atiende.
-            .col-md-8.col-lg.bg-c11.m-2
+
+            .col-md-8.col-lg.bg-c11.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img19.svg', style="width: 100px" ,alt='').m-auto
                 p.text-center.mb-4 #[b Transmitir información clara]
                 p.text-center.mb-0 Asegúrese de que la información brindada sea clara y exitoso el mensaje que se está dando para los cuidados que recibirá el recién nacido.
+
           .row.justify-content-center
-            .col-md-8.col-lg-4.bg-c11.m-2
+            .col-md-8.col-lg-4.bg-c11.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img20.svg', style="width: 100px" ,alt='').m-auto
                 p.text-center.mb-4 #[b Escuchar y evaluar el contexto]
                 p.text-center.mb-0 Esto permite que se generen más habilidades en el equipo de talento humano evidente en resultados adecuados a la atención brindada antes, durante y aún después del egreso del recién nacido, así como la satisfacción de los padres, madres y cuidadores que aplicarán los conocimientos adquiridos.
-            .col-md-8.col-lg-4.bg-c11.m-2
+
+            .col-md-8.col-lg-4.bg-c11.m-2(data-aos="flip-right")
               .p-4
                 figure.mb-4
                   img(src='@/assets/curso/tema1/img18.svg', style="width: 100px" ,alt='').m-auto
