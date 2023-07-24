@@ -29,8 +29,8 @@
         p.mb-0 El siguiente video expone los criterios a considerar para el egreso del recién nacido:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Título de video.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ft5Y6STu_fY" title="Recomendaciones para el egreso del recién nacido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Recomendaciones para el egreso del recién nacido
 
     .row.mb-4
       .col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -111,7 +111,7 @@
       p.mb-0 #[b Figura 3]. Secuencia de actividades de acompañamiento
     figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/tema2/img8.svg', style="width: 1400px" ,alt='La imagen presenta la información que debe contener el material relacionado con la atención al recién nacido.').m-auto
-      
+
     .row.align-items-center.mb-5(data-aos="zoom-in")
       .col-auto
         figure
@@ -170,7 +170,7 @@
       .col-lg-4(data-aos="flip-right")
         figure
           img(src='@/assets/curso/tema2/img6.png', style="width: 450px" ,alt='').m-auto
-          
+
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10
         .row
@@ -188,7 +188,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/tema2/img11.svg', style="width: 1400px" ,alt='El esquema presenta en qué consiste el tamizaje neonatal y los tipos de procedimiento que existen.').m-auto
-      
+
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto.mb-4.mb-lg-0
         figure
@@ -349,7 +349,7 @@
       .col-auto.bg-c16
         .p-2(data-aos="fade-left")
           h3.text-white.mb-0 Ictericia
-          
+
     .row.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-in")
         p Se define ictericia a la coloración amarilla de la piel y los ojos del recién nacido, que genera especial inquietud a la mayoría de los padres al no tener información clara sobre el tema. Existen múltiples causas y en situaciones se requiere de intervención médica como, por ejemplo, cuando se presenta incompatibilidad por grupo sanguíneo o Rh. Este ejemplo es fácil de identificar y su manejo tiene efectividad en la mayor parte de los casos.
@@ -644,7 +644,7 @@
       .col-lg-4
         figure(data-aos="flip-right")
           img(src='@/assets/curso/tema2/img18.png', style="width: 370px" ,alt='').m-auto
-          
+
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")

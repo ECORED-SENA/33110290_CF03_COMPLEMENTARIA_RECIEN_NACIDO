@@ -26,8 +26,8 @@
           img(src='@/assets/curso/intro/img2.svg', style="width: 400px" ,alt='').m-auto
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Título de video.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4bk8baKMW2A" title="Plan de cuidado integral al recién nacido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Plan de cuidado integral al recién nacido
 </template>
 
 <script>
