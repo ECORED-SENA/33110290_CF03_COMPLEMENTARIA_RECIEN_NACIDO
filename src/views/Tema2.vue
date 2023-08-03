@@ -81,7 +81,7 @@
         .p-4
           figure.mb-4
             img(src='@/assets/curso/tema2/img5.svg', style="width: 100px" ,alt='').m-auto
-          p.text-center.mb-0 Que la información haya sido comprendida por los padres y que la comunicación con el profesional médico, médico especialista, enfermera o personal de talento humano en salud se efectiva.
+          p.text-center.mb-0 Que la información haya sido comprendida por los padres y que la comunicación con el profesional médico, médico especialista, enfermera o personal de talento humano en salud sea efectiva.
       .col-md-8.col-lg.bg-c11.m-2(data-aos="flip-right")
         .p-4
           figure.mb-4
@@ -379,7 +379,7 @@
         .p-2(data-aos="fade-right")
           h3.text-white.mb-0 Piel y cordón
 
-    p(data-aos="fade-in").mb-5 La siguiente figura muestra las principales características y cuidados de la piel en recién nacidos:
+    p(data-aos="fade-in").mb-5 La siguiente infografía muestra las principales características y cuidados de la piel en recién nacidos:
 
     .row.mb-4
       .col-lg-7.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -666,7 +666,7 @@
     .row.justify-content-center(data-aos="zoom-in")
       .col-lg-8.mb-5
         .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Figura 6]. Objetivos del seguimiento domiciliario
+          p.mb-0 #[b Figura 5]. Objetivos del seguimiento domiciliario
         figure
           img(src='@/assets/curso/tema2/img36.svg', style="width: 800px" ,alt='El gráfico presenta seis objetivos del seguimiento domiciliario.').m-auto
       .col-lg-8

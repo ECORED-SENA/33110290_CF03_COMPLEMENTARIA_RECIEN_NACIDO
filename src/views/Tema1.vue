@@ -68,7 +68,7 @@
                   | El llanto comunica una necesidad que se debe identificar. Por ejemplo: que lo lleven en brazos, que lo alimenten, que le cambien el pañal o que le ayuden a conciliar el sueño.
                 li.d-flex
                   i.fas.fa-chevron-right
-                  | Se manteie tranquilo al tener un equilibrio en sus necesidades fisiológicas y/o emocionales.
+                  | Se mantiene tranquilo al tener un equilibrio en sus necesidades fisiológicas y/o emocionales.
           .row(titulo="Desarrollo y movimiento físico")
             .col-12
               p Se define mediante la expresión corporal como respuesta a un estímulo generado ya sea por sonido o por colores, los cuales, si bien al inicio no son claros, sí son llamativos por sus formas.
@@ -204,10 +204,10 @@
                 p.mb-0 #[b Figura 1]. Línea de acceso a intervenciones
               figure
                 img(src='@/assets/curso/tema1/img13.svg', style="width: 950px" ,alt='Las líneas de intervención son por: priorización de la autoridad sanitaria, valoración de la dinámica familiar o por solicitud de la familia.').m-auto
-                
+
     p(data-aos="fade-in") #[span.txt-c2 Teniendo en cuenta la necesidad de padres o cuidadores de contar con herramientas de valoración familiar en la atención del cuidado prenatal se hace necesario reconocer capacidades, necesidades y factores de riesgo de las familias, que permitan identificar de manera clara e integral la situación y dinámica familiar que permita dar prioridad a las atenciones correspondientes,] según la Ruta Integral de Atención (RIA) del Ministerio de Salud y Protección Social (s.f.).
     p.mb-5 A continuación, se pueden revisar algunos aspectos de consideración de la RIA relacionados con herramientas de valoración familiar:
-    
+
     .row.bg-c10(data-aos="fade-in")
       .col-12
         .px-5
