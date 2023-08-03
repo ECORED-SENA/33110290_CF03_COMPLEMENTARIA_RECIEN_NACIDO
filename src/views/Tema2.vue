@@ -379,7 +379,7 @@
         .p-2(data-aos="fade-right")
           h3.text-white.mb-0 Piel y cordón
 
-    p(data-aos="fade-in").mb-5 La siguiente infografía muestra las principales características y cuidados de la piel en recién nacidos:
+    p(data-aos="fade-in").mb-5 La siguiente imagen muestra las principales características y cuidados de la piel en recién nacidos:
 
     .row.mb-4
       .col-lg-7.mb-4.mb-lg-0(data-aos="zoom-in")
